@@ -1,3 +1,5 @@
 # ⬜️ Notion Calendar
 - [Notion Calendar](https://www.notion.so/Calendar-1b3e1f3b1b7e4) - Notion Calendar is a calendar tool that helps you to organize your tasks and events. It allows you to create different views like daily, weekly, and monthly calendars. You can also set reminders and deadlines for your tasks. Notion Calendar integrates directly with Notion tools like databases and boards.
 
+# 🟥 Fantastical
+- [Fantastical](https://flexibits.com/fantastical) - Fantastical is a calendar app by Flexibits that helps you organize your tasks and events. It allows you to connect multiple calendards from numerous providers such as Outlook and Google as well as integrate other applications like Todoist for tasks. Another very usefu feature is calendar sets which allows you to see combinations of calenders overlaid together which can be switched between at anytime or have automatically enabled with time or Apple focus modes on iOS. For example during 9am to 5pm your work calendars can be shown and after 5 your personal.
