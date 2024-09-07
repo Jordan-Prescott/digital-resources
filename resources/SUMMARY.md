@@ -1,0 +1,15 @@
+# Table of contents
+
+* [Welcome](README.md)
+* [🩷 Sponsor](support.md)
+* [Design](design/README.md)
+  * [Inspiration](design/inspiration.md)
+* [Mental Health](mental\_health/README.md)
+  * [Journalling](mental\_health/journalling.md)
+* [Productivity](productivity/README.md)
+  * [Calendars](productivity/calendars.md)
+  * [Notes](productivity/notes.md)
+  * [Todo](productivity/todo\_apps.md)
+* [Social Media](social\_media/README.md)
+  * [Management](social\_media/management.md)
+  * [Search](social\_media/search.md)
