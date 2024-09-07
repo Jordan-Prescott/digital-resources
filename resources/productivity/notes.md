@@ -1,2 +1,5 @@
-# ⬜️ Notion 
-- [Notion](https://www.notion.so/) - Notion is an all-in-one workspace where you can write, plan, collaborate, and get organized. It allows you to take notes, create to-do lists, manage projects, and more. Notion is a flexible tool that can be used for personal and professional purposes. You can customize it to suit your needs and create your own templates. Notion also offers a variety of integrations with other tools like Google Drive, Slack, and Trello.
+# 📝 Notes
+
+### ⬜️ Notion 
+Notion is an all-in-one workspace where you can write, plan, collaborate, and get organized. It allows you to take notes, create to-do lists, manage projects, and more. Notion is a flexible tool that can be used for personal and professional purposes. You can customize it to suit your needs and create your own templates. Notion also offers a variety of integrations with other tools like Google Drive, Slack, and Trello.
+- [🔗 notion.so](https://www.notion.so/)
