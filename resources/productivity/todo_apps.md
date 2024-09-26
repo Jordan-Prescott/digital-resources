@@ -15,3 +15,7 @@ Apple Reminders is a built-in task management app for iOS, macOS, and watchOS. I
 ### ☑️ TickTick
 TickTick is a task management app that helps you organize your tasks and projects. It allows you to create to-do lists, set reminders, and collaborate with others. TickTick offers features like recurring tasks, subtasks, and integrations with other tools like Google Calendar and Evernote.  
 - [🔗 ticktick.com](https://ticktick.com/)  
+
+### 🟦 Trello
+Trello is a visual collaboration tool that helps you organize and prioritize your projects and tasks. It uses boards, lists, and cards to create a visual representation of your workflow. Trello offers features like due dates, checklists, attachments, and integrations with other tools like Slack and Google Drive.
+- [🔗 trello.com](https://trello.com/)
