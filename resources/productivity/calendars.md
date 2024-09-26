@@ -11,3 +11,11 @@ Fantastical is a calendar app by Flexibits that helps you organize your tasks an
 ### 🟦 Google Calendar
 Google Calendar is a calendar tool that helps you to organize your tasks and events. It allows you to create different calendars for different purposes and share them with others. You can set reminders and deadlines for your tasks. Google Calendar integrates with other Google tools like Gmail and Google Meet.
 - [🔗Google Calendar](https://calendar.google.com)
+
+### ⬛️ Motion Calendar
+Motion Calendar is an AI powered calendar app that helps you to organize your tasks and events. It allows you to create different views like daily, weekly, and monthly calendars. You can set reminders and deadlines for your tasks. Motion Calendar integrates with other tools like Google Drive and Slack.
+- [🔗 usemotion.com](https://www.usemotion.com/)
+
+### 🔵 Calendly
+Calendly is a scheduling tool that helps you to organize your meetings and appointments. It allows you to create different types of events like one-on-one meetings, group meetings, and webinars. Calendly syncs with your calendar to avoid double bookings and sends reminders to participants.
+- [🔗 calendly.com](https://calendly.com/)

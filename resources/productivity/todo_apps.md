@@ -11,3 +11,7 @@ Things 3 is a task management app for macOS, iOS, and watchOS. It offers a simpl
 ### 🔵 Apple Reminders
 Apple Reminders is a built-in task management app for iOS, macOS, and watchOS. It allows you to create to-do lists, set deadlines, and organize your tasks by priority. Apple Reminders also supports location-based reminders and Siri integration for hands-free task management.
 - [🔗 apps.apple.com](https://apps.apple.com/us/app/reminders/id1108187841)
+
+### ☑️ TickTick
+TickTick is a task management app that helps you organize your tasks and projects. It allows you to create to-do lists, set reminders, and collaborate with others. TickTick offers features like recurring tasks, subtasks, and integrations with other tools like Google Calendar and Evernote.  
+- [🔗 ticktick.com](https://ticktick.com/)  
