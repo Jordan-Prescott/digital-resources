@@ -7,6 +7,7 @@
   * [Colours](design/colours.md)
   * [Fonts](design/fonts.md)
   * [Icons](design/icons.md)
+  * [Software](design/software.md)
 * [Mental Health](mental\_health/README.md)
   * [Journalling](mental\_health/journalling.md)
 * [Productivity](productivity/README.md)
@@ -35,4 +36,3 @@
 * [Writing](writing/README.md)
   * [Citing](writing/citing.md)
   * [Research](writing/research.md)
-  
