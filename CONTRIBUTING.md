@@ -1,49 +1,17 @@
-# Contributing to Digital Resources
+# Contributing
 
-Thank you for considering contributing to our project! Here are some guidelines to help you get started.
+Add your favourite tools, resources, or anything you think is useful for Digital Resouces!!
+
+NOTE: It's a super easy way to contribute to open source. If you're looking for a place to start, this is a great way to get involved.
 
 ## How to Contribute
 
-1. **Fork the Repository**: Click the "Fork" button at the top right of the repository page.
-2. **Clone Your Fork**: Clone your forked repository to your local machine.
-    ```sh
-    git clone https://github.com/your-username/digital-resources.git
-    ```
-3. **Create a Branch**: Create a new branch for your feature or bugfix.
-    ```sh
-    git checkout -b feature/your-feature-name
-    ```
-4. **Make Changes**: Make your changes in the new branch.
-5. **Commit Changes**: Commit your changes with a clear and concise commit message.
-    ```sh
-    git commit -m "Add feature: your feature name"
-    ```
-6. **Push Changes**: Push your changes to your forked repository.
-    ```sh
-    git push origin feature/your-feature-name
-    ```
-7. **Create a Pull Request**: Open a pull request from your forked repository to the main repository.
-
-## Code of Conduct
-
-Please read our [Code of Conduct](CODE_OF_CONDUCT.md) to understand the expected behavior when contributing to this project.
-
-## Reporting Issues
-
-If you find a bug or have a feature request, please open an issue in the [Issues](https://github.com/your-username/digital-resources/issues) section.
-
-## Style Guide
-
-- Follow the existing code style.
-- Write clear and concise commit messages.
-- Ensure your code passes all tests.
-
-## Testing
-
-Please ensure that your code passes all existing tests and add new tests for any new features.
-
-## Documentation
-
-Update the documentation to reflect any changes made in your contributions.
-
-Thank you for your contributions!
+1. Fork the Project
+2. Create a new Branch
+3. Add an entry in the appropriate file followint the format in other files
+4. IF this is a new section, create a new directoty and add a README.md file with the same format as the other README.md files. Then update the SUMMARY.md file with the new section.
+5. Commit your Changes 
+6. Push to the Branch 
+7. Squarsh and merge your commits
+8. Open a Pull Request
+9. Make sure PR title is clear (`added Notion to Notes section`)
