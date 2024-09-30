@@ -16,3 +16,14 @@ Font Squirrel is a font generator tool that provides users with a collection of 
 Adobe Fonts (formerly Typekit) is a subscription-based font service that offers a vast library of high-quality fonts for web and desktop use. It provides access to thousands of fonts from renowned type foundries and designers, which can be synced to Adobe Creative Cloud applications seamlessly. Key features include font pairing recommendations, variable fonts support, and web font optimization tools. Adobe Fonts is ideal for creatives and professionals looking for premium typography solutions.
 - [🔗 fonts.adobe.com](https://fonts.adobe.com/)
 
+### 🟧 Collletttivo
+Collletttivo is a curated collection of free fonts, typefaces, and typography resources for designers and creatives. It features a diverse range of fonts from independent designers and foundries, offering unique and innovative typography options. Key features include font showcases, designer interviews, and font recommendations. Collletttivo is perfect for designers seeking inspiration and access to high-quality fonts for their projects.
+- [🔗 collletttivo.it](https://www.collletttivo.it/)
+
+### 🔤 FontShare
+FontShare is a platform that provides free fonts for personal and commercial use, allowing users to download and use fonts in various design projects. It offers a wide selection of fonts in different styles and categories, including serif, sans-serif, display, and script fonts. Key features include font previews, search filters, and font recommendations. FontShare is suitable for designers and creatives looking for diverse and accessible typography options.
+- [🔗 fontshare.com](https://www.fontshare.com/)
+
+### 😬 Uncut
+Uncut is a font library that offers a collection of free, open-source fonts for designers and developers. It features a variety of fonts in different styles and weights, which can be downloaded and used in personal and commercial projects. Key features include font previews, search filters, and font pairing recommendations. Uncut is ideal for creatives looking for high-quality typography resources without any licensing restrictions.
+- [🔗 uncut.wtf](https://www.uncut.wtf/)
