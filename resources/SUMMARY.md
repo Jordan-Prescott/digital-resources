@@ -14,6 +14,8 @@
   * [Journalling](mental\_health/journalling.md)
 * [Organisation](organisation/README.md)
   * [Password Managers](organisation/password\_managers.md)
+* [Photography](photography/README.md)
+  * [Free Stock Images](photography/free\_stock\_images.md)
 * [Productivity](productivity/README.md)
   * [Calendars](productivity/calendars.md)
   * [Notes](productivity/notes.md)
