@@ -18,8 +18,6 @@
   * [Free Stock Images](photography/free\_stock\_images.md)
 * [Productivity](productivity/README.md)
   * [Calendars](productivity/calendars.md)
-  * [Notes](productivity/notes.md)
-  * [Todo](productivity/todo\_apps.md)
   * [Books](productivity/books.md)
   * [Habit](productivity/habit.md)
   * [Project Management](productivity/project\_management.md)
