@@ -1,3 +1,3 @@
-# 📚 digital-resources
+# Digital Resources
 
-This is a collection of resources that I have found useful in my journey as a software developer, aspiring entreprenuer, and being productive. I hope you find them useful too.
+Personal index of tools and resources I use and want to save for future use. 
