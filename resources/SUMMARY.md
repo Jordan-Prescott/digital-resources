@@ -9,6 +9,8 @@
   * [Fonts](design/fonts.md)
   * [Icons](design/icons.md)
   * [Software](design/software.md)
+* [Mac Only](mac_only/README.md)
+  * [Spotlight Replacement](mac_only/spotlight_replacement.md)
 * [Mental Health](mental_health/README.md)
   * [Journalling](mental_health/journalling.md)
   * [Meditation](mental_health/meditation.md)
