@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Welcome](README.md)
+* [AI](ai/README.md)
 * [Browsing](browsing/README.md)
   * [Search Engines](browsing/search_engines.md)
 * [Design](design/README.md)
